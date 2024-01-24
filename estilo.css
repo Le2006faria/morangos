@@ -13,3 +13,7 @@ h3{
     color:darkkhaki;
     font-style: normal;
 }
+img{
+    border: 15px;
+    border-radius: 5px;
+}
