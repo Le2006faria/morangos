@@ -6,6 +6,10 @@ h1{
     font-style: oblique;
 }
 h2{
-    color:darkblue;
+    color:darkgreen;
     font-style: italic;
+}
+h3{
+    color:darkkhaki;
+    font-style: normal;
 }
